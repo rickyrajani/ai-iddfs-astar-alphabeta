@@ -515,20 +515,3 @@ class DominoesGame(object):
             beta = min(beta, v)
 
         return curr_move, v, s
-
-
-############################################################
-# Section 5: Feedback
-############################################################
-
-feedback_question_1 = """
-I spent around 10 hours on this assignment.
-"""
-
-feedback_question_2 = """
-Understanding and implementing A* search for the first time was challenging.
-"""
-
-feedback_question_3 = """
-Parts two and three were almost identical, so I did not gain much from implementing both sections.
-"""
